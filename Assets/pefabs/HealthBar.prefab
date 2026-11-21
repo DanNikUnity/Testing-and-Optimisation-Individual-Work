@@ -402,3 +402,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthSlider: {fileID: 3678842174630449797}
   character: {fileID: 0}
+  canvasTag: WorldSpaceCanvas
